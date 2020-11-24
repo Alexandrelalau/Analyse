@@ -1,0 +1,194 @@
+City;Outlook;Humidity;Temperature
+Abidjan;Rainy;High;Hot
+Addis-Abeba;Rainy;Average;Mild
+Algiers;Overcast;Average;Mild
+Amsterdam;Sunny;Average;Mild
+Anchorage;Sunny;Average;Cold
+Ankara;Sunny;Average;Cold
+Antananarivo;Overcast;Low;Mild
+Astana;Overcast;Average;Cold
+Asuncion;Overcast;Average;Mild
+Athens;Overcast;Low;Mild
+Auckland;Rainy;Average;Mild
+Bagdad;Sunny;Low;Hot
+Baltimore;Rainy;High;Mild
+Bamako;Sunny;High;Mild
+Bangkok;Sunny;Average;Hot
+Bangui;Sunny;Average;Hot
+Barcelona;Overcast;Average;Mild
+Beijing;Rainy;Average;Mild
+Berlin;Sunny;Average;Cold
+Bern;Overcast;High;Mild
+Beyrouth;Sunny;Low;Hot
+Bogota;Overcast;High;Cold
+Bratislava;Sunny;Average;Mild
+Brest;Overcast;High;Mild
+Brussels;Sunny;High;Cold
+Budapest;Sunny;High;Cold
+Buenos Aires;Sunny;Average;Mild
+Caen;Foggy;High;Mild
+Cagliari;Sunny;Average;Hot
+Cairo;Sunny;Average;Hot
+Canberra;Sunny;Low;Cold
+Cape Town;Overcast;Average;Mild
+Caracas;Overcast;High;Mild
+Chengdu;Sunny;Low;Hot
+Chicago;Sunny;Average;Cold
+Chisinau;Sunny;Low;Mild
+Colorado Springs;Sunny;Low;Hot
+Copenhagen;Rainy;High;Cold
+Cork;Overcast;High;Cold
+Cyprus;Sunny;Low;Mild
+Dakar;Sunny;Average;Hot
+Dallas;Overcast;Average;Mild
+Dandong;Overcast;Average;Cold
+Denver;Sunny;Low;Cold
+Detroit;Rainy;High;Mild
+Dhaka;Overcast;Average;Hot
+Dublin;Overcast;High;Mild
+Durban;Rainy;Average;Mild
+Edinburgh;Rainy;High;Mild
+Frankfurt;Overcast;Average;Mild
+Freetown;Rainy;High;Hot
+Fukuoka;Rainy;High;Mild
+Georgetown;Rainy;Average;Hot
+Guangzhou;Sunny;Low;Hot
+Hanga Roa;Overcast;High;Mild
+Hanoi;Sunny;Low;Hot
+Havana;Overcast;High;Mild
+Helsinki;Overcast;High;Cold
+Hobart;Overcast;Average;Cold
+Ho Chi Minh;Rainy;High;Hot
+Hong Kong;Sunny;Low;Hot
+Honolulu;Sunny;Low;Mild
+Houston;Overcast;High;Mild
+Hyderabad;Foggy;Average;Hot
+Ibiza;Sunny;High;Mild
+Innsbruck;Overcast;Average;Mild
+Irkutsk;Sunny;Low;Mild
+Istanbul;Sunny;Average;Mild
+Jakarta;Foggy;Average;Hot
+Jerusalem;Sunny;Average;Mild
+Johannesburg;Sunny;Low;Mild
+Kabul;Sunny;Low;Hot
+Karlsruhe;Overcast;High;Mild
+Kathmandu;Rainy;High;Hot
+Kazan;Overcast;High;Cold
+Kharkiv;Overcast;Average;Cold
+Khartoum;Sunny;Low;Hot
+Kiev;Overcast;Average;Cold
+Kigali;Rainy;Average;Hot
+Killarney;Rainy;High;Mild
+Kinshasa;Overcast;High;Hot
+Kolkata;Foggy;High;Hot
+Koln;Overcast;Average;Mild
+Kourou;Overcast;High;Mild
+Krakow;Foggy;High;Cold
+Krasnoyarsk;Overcast;Average;Cold
+Kuala Lumpur;Sunny;Average;Hot
+Kuching;Rainy;Average;Hot
+Kyoto;Overcast;High;Hot
+Lagos;Sunny;Low;Hot
+La Haye;Overcast;Average;Mild
+La Paz;Overcast;Low;Mild
+Lahore;Sunny;Average;Hot
+Lhasa;Sunny;Low;Mild
+Lima;Overcast;High;Mild
+Lisbon;Sunny;Average;Mild
+Lome;Overcast;High;Hot
+London;Overcast;Average;Mild
+Los Angeles;Sunny;Low;Mild
+Luxemburg;Sunny;Average;Mild
+Luxor;Sunny;Average;Hot
+Madrid;Sunny;Low;Mild
+Malta;Overcast;Average;Mild
+Manchester;Foggy;High;Mild
+Manila;Rainy;High;Hot
+Mariupol;Overcast;High;Cold
+Marrakech;Sunny;Low;Hot
+Marseille;Sunny;Average;Mild
+Maseru;Sunny;Low;Mild
+Mendoza;Sunny;Low;Mild
+Mexico city;Overcast;Average;Mild
+Miami;Rainy;High;Mild
+Minsk;Rainy;High;Mild
+Montevideo;Rainy;High;Mild
+Montreal;Rainy;High;Cold
+Moscow;Rainy;High;Cold
+Mourmansk;Overcast;High;Cold
+Munich;Sunny;Average;Mild
+Nairobi;Overcast;Average;Mild
+Nanjing;Overcast;High;Hot
+Narsaq;Overcast;Average;Cold
+New Orleans;Sunny;High;Mild
+New York;Rainy;High;Mild
+Niamey;Sunny;Average;Hot
+Noumea;Overcast;Average;Mild
+Novosibirsk;Sunny;Average;Cold
+Okinawa;Overcast;High;Hot
+Omsk;Sunny;Low;Mild
+Oran;Overcast;Average;Hot
+Osaka;Sunny;High;Hot
+Oslo;Rainy;Average;Mild
+Ottawa;Overcast;Average;Cold
+Ouagadougou;Sunny;High;Mild
+Ourzazate;Sunny;Low;Hot
+Paris;Sunny;Average;Cold
+Papeete;Sunny;Average;Hot
+Pelembang;Overcast;Average;Hot
+Phnom Penh;Rainy;High;Hot
+Phoenix;Sunny;Low;Hot
+Phuket;Overcast;Average;Hot
+Pompei;Sunny;Average;Mild
+Port Louis;Overcast;Average;Mild
+Praha;Sunny;Average;Mild
+Pusan;Rainy;High;Hot
+Punta Arenas;Sunny;High;Cold
+Pyongyang;Overcast;Average;Mild
+Rabat;Sunny;Average;Mild
+Rennes;Overcast;High;Mild
+Reykjavik;Sunny;Average;Cold
+Riga;Sunny;Average;Mild
+Riyadh;Sunny;Low;Hot
+Roma;Foggy;High;Cold
+Sakhalin;Rainy;Average;Cold
+Salzburg;Overcast;Average;Mild
+San Diego;Overcast;Low;Hot
+San Francisco;Sunny;Low;Mild
+Santiago;Foggy;High;Cold
+Sao Paulo;Overcast;High;Mild
+Sapporo;Overcast;Average;Mild
+Sarajevo;Sunny;Average;Cold
+Seoul;Rainy;High;Mild
+Shanghai;Overcast;Average;Hot
+Shenzhen;Sunny;Low;Hot
+Singapore;Overcast;Average;Hot
+St Petersburg;Overcast;High;Cold
+Stockholm;Sunny;High;Cold
+Strasbourg;Overcast;High;Mild
+Suva;Overcast;Average;Hot
+Sydney;Sunny;Low;Mild
+Taipei;Rainy;Average;Hot
+Tallinn;Rainy;High;Cold
+Tachkent;Sunny;Low;Hot
+Tehran;Sunny;Low;Hot
+Thimphu;Overcast;Low;Mild
+Tikrit;Sunny;Low;Hot
+Tirana;Sunny;Average;Mild
+Tokyo;Overcast;High;Hot
+Toronto;Rainy;High;Mild
+Tunis;Overcast;High;Mild
+Ulaanbaatar;Sunny;Low;Cold
+Ulan-Ude;Foggy;Average;Cold
+Urumqi;Sunny;Low;Mild
+Ushuaia;Sunny;Low;Cold
+Vancouver;Rainy;High;Cold
+Verona;Sunny;Low;Mild
+Vienna;Sunny;Average;Hot
+Vilnius;Overcast;Average;Cold
+Vladivostok;Overcast;High;Cold
+Warsaw;Sunny;Average;Cold
+Washington DC;Rainy;High;Mild
+Wellington;Overcast;High;Cold
+Yekaterinburg;Sunny;Average;Mild
+Zurich;Overcast;High;Cold
