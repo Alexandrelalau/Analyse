@@ -1,8 +1,6 @@
 import matplotlib as plt
-
 import pandas as pd
 import seaborn as sns
-import random as rd
 from sklearn import metrics
 from sklearn.naive_bayes import GaussianNB
 import matplotlib.pyplot as plt
@@ -176,45 +174,7 @@ pd.crosstab(titanic_train['Fare2'], titanic_train['Survived'])
 #EXERCICE A.2
 
 #1
-
-
-"""
-Travail effectué dans l'exercice 1
-def fill_age(cols):
-    Parch = cols[1]
-    Age =cols[0]
-    if pd.isnull(Age):
-        if Parch==0:
-            return rd.randint(25, 40)
-        elif Parch==1:
-            return rd.randint(8, 35)
-        elif Parch==2:
-            return rd.randint(10, 27)
-        elif Parch==3:
-            return rd.randint(25, 50)
-        elif Parch==4:
-            return rd.randint(35, 53)
-        elif Parch==5:
-            return 40
-        elif Parch==6:
-            return 44
-        else:
-            return titanic_train.fillna('ffill')
-    else:
-        return Age
-titanic_train['Age']=titanic_train[["Age","Parch"]].apply(fill_age,axis=1)
-
-# ajout d'une nouvelle colonne pour child/not child
-l = []
-for i in titanic_train.index:
-    if titanic_train['Age'][i] < 18:
-        l.append(1)
-    elif titanic_train['Age'][i] >= 18:
-        l.append(0)
-len(l)
-#implémentation   
-titanic_train['Child'] = l  
-print(titanic_train.head()) """
+#Traitement de la question effectué dans l'exercice A1
 
 #2
 
@@ -315,6 +275,29 @@ graph = pydotplus.graph_from_dot_data(dot_data)
 
 # Create PNG
 graph.write_png("test.png")
+
+#AUTRE MANIERE D5EFFECTUER LE A3 
+
+clf=tree.DecisionTreeClassifier()
+
+#try different attributes :
+#data_feature_names=['Fare2','Child','Sex','Pclass']
+#data_feature_names=['Child','Sex',]
+data_feature_names=['Fare2','Child','Sex']
+
+clf=clf.fit(titanic_train[data_feature_names],titanic_train['Survived']) #permet d'entrainer l'algorithme sur le jeu de données d'entrainement
+dot_data=tree.export_graphviz(clf,out_file=None,
+                              feature_names=data_feature_names,
+                              class_names=["Die","Survived"],
+                              filled=True,
+                              rounded=True,
+                              precision=0,
+                              impurity = False)
+colors = ('brown', 'forestgreen')
+
+graph=pydotplus.graph_from_dot_data(dot_data)
+display(Image(graph.create_png())) #to plot a tree
+Image(graph.write_png('./treedecision_lbg.png'))    #to save the plot
 
 
 
