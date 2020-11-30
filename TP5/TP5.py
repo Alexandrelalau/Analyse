@@ -276,7 +276,7 @@ graph = pydotplus.graph_from_dot_data(dot_data)
 # Create PNG
 graph.write_png("test.png")
 
-#AUTRE MANIERE D5EFFECTUER LE A3 
+#AUTRE MANIERE D'EFFECTUER LE A3 
 
 clf=tree.DecisionTreeClassifier()
 
